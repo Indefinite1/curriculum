@@ -24,7 +24,7 @@ For example:
 public class Car{
   private static int piecesSold = 0;
   public Car(){
-    piecesSold = piecesSold + 1:
+    piecesSold = piecesSold + 1;
   }
 
   public static void printSold(){
